@@ -21,6 +21,6 @@ Use `___` in a sentence where possible for the Context Game.
 
 ## Use
 
-Open `index.html` in a modern browser. PDF export uses jsPDF from cdnjs, so PDF export requires internet access unless the library is hosted locally.
+Open `index.html` in a modern browser. PDF export uses jsPDF from cdnjs, but it can run locally without internet.
 
 Importing a new CSV starts a fresh sorting session. Clear All Words clears the saved vocabulary and tray assignments from this browser.
